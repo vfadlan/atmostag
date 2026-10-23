@@ -5,7 +5,9 @@ AtmosTag is an ultra-low-power, pocket-sized device featuring a 2.13-inch e-ink 
 
 AtmosTag circuitry is laid out on a **small PCB**, smaller than a credit card. With many features and small size, **0603 and 0402** components are not optional. There are multiple of those components, and hand soldering them won't be easy. PCBA is the solution. But because **PCBA is a costly process**, the design has to be engineered so much so that it comes **right the first time**.
 
-![PCB Design in 3D View](images/pcb-1.3-3d.png)
+![PCB Design in 3D View](images/pcb-v1.4-3d.png)
+![PCB Front Side](images/pcb-v1.4-front.png)
+![PCB Back Side](images/pcb-v1.4-back.png)
 ![Enclosure Design Prototype](images/enclosure-1.3-3d.png)
 
 ## But Why?
