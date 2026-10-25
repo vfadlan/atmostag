@@ -409,7 +409,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 4,
+      "model_mode": 3,
       "workbook_filename": "epd-boost-driver.wbk"
     },
     "page_layout_descr_file": "",
@@ -424,7 +424,7 @@
         "uuid": "92748586-f289-4f19-8381-d7156463f0b8"
       }
     ],
-    "used_designators": "#PWR1,BT1,V1,R1,C1,I1",
+    "used_designators": "BATT1,R3",
     "variants": []
   },
   "sheets": [
